@@ -6,5 +6,5 @@ inputs, the touch sensor will be using the I2C communication protocol and the di
 will be using an ADC(Protocol that converts analog signals to digital signals on
 the ATmega board) to set the proper frequency for the sound. Finally, the piezo
 element will serves as an output by outputting sound. I wanted to design this project
-because I want to play some sick beats!
+to play some sick beats!
 
